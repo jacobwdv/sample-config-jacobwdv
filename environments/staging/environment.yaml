@@ -42,7 +42,7 @@ app:
   #    region: us-east-1 
 
   java: 17
-  version: c059a7e0-f3ca-4ce5-ad92-f7d9d93644ce
+  version: 
 # probes
 # dynamic scaling
 # scaling to 0
